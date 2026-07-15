@@ -1,41 +1,33 @@
-<h1 align="center">l4st98</h1>
+<h1 align="center">WriteUps-Labs</h1>
 
 <p align="center">
-  <b>🇵🇹 Portugal • 14y</b><br>
-  Cybersecurity & Software Development
+  🇵🇹 HTB & THM walkthroughs  
+  Clean, organized, and straight to the point.
 </p>
 
 ---
 
-## 📁 WriteUps-Labs
-HTB & THM walkthroughs. In Progress...
-
-**Repo:** https://github.com/l4st98/WriteUps-Labs
-
----
-
-## 🔧 Areas of Interest
-- Web exploitation  
-- Active Directory  
-- Reverse Engineering  
-- Internal & External Pentesting  
-- Red Team & Blue Team  
-- Programming & Software Development  
-
-I'm currently studying **Software Development** in secondary school.
-
-I admire **IppSec**, mainly because he dealt with **rotacism**, something I relate to, and still became one of the strongest names in offensive security.  
-Channel: https://www.youtube.com/c/IppSec
+## 📂 Structure
+- HackTheBox machines  
+- TryHackMe rooms  
+- Notes, steps, and exploitation paths  
+- Screenshots only when necessary
 
 ---
 
-## 🌐 Socials
+## 🎯 Goal
+Documenting walkthroughs in a simple and clear format.  
+No overexplaining, no noise — just the path taken.
+
+---
+
+## 🔗 Profiles
+- GitHub: https://github.com/l4st98  
 - X: https://x.com/l4st1337  
-- Discord: @xstf_  
-- GitHub: https://github.com/l4st98
+- Discord: @xstf_
 
 ---
 
 <p align="center">
-  <i>Focused.</i>
+  <i>Consistent work.</i>
 </p>
