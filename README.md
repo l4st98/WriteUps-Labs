@@ -8,10 +8,10 @@
 ---
 
 ## 📁 WriteUps-Labs
-HTB & THM walkthroughs. 
+HTB & THM walkthroughs. In Progress...
 
 **Repo:** https://github.com/l4st98/WriteUps-Labs
-**In Progress....**
+
 ---
 
 ## 🔧 Areas of Interest
